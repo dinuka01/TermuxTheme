@@ -7,7 +7,7 @@
 
 </p>
 <p align="center">
-<a href=" "><img title="Termux-Theme" src="////////"></a>
+<a href=" "><img title="Termux-Theme" src="https://github.com/dinuka01/TermuxTheme/blob/0e6631b0dc7158df216b3a67e11ea1a02858a8f0/1.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/dinuka01"><img title="Github" src="https://img.shields.io/badge/Github-dinuka-brightgreen?style=for-the-badge&logo=github"></a>
@@ -49,7 +49,7 @@ git clone https://github.com/dinuka01/TermuxTheme
 
 <br>
 <p align="center">
-<img width="100%" src="///////"/>
+<img width="100%" src="https://github.com/dinuka01/TermuxTheme/blob/0e6631b0dc7158df216b3a67e11ea1a02858a8f0/2.png"/>
 </p>
 
 
