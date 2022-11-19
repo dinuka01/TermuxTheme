@@ -35,5 +35,3 @@ echo "setup is ready good to go now."|lolcat
 echo "Run ./TermuxTheme.sh To Start The Tool."|lolcat
 sleep 3.0
 echo ""
-sleep 2.0
-echo ""
