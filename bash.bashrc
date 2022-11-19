@@ -327,7 +327,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/███████████████████88%......./
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -382,12 +382,12 @@ echo ""
 echo ""
 echo ""
 echo ""
-sleep 1.0
+sleep 0.5
 mpv /data/data/com.termux/files/home/TermuxTheme/scifi.mp3
 clear
 cat /data/data/com.termux/files/home/TermuxTheme/box.cow | lolcat
 echo ""
-figlet -f small "D I N U K A"|lolcat
+figlet -f small "EXCAPE BOX"|lolcat
 sleep 0.0
 echo -e "\e[96m"
 date
