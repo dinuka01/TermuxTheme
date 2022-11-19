@@ -33,5 +33,5 @@ pip install lolcat
 clear
 echo "setup is ready good to go now."|lolcat
 echo "Run ./TermuxTheme.sh To Start The Tool."|lolcat
-sleep 3.0
+sleep 0.0
 echo ""
