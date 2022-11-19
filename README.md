@@ -42,10 +42,6 @@ git clone https://github.com/dinuka01/TermuxTheme
 * `./TermuxTheme.sh`
 
 
-```
-THIS TOOL IS CREATED BY DINUKA
-```
-
 ## USAGE
 * `./TermuxTheme.sh`
 
